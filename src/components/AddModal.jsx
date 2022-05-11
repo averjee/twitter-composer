@@ -84,7 +84,7 @@ const AddModal = () => {
         />
       )}
 
-      <hr />
+      <hr className="hr-add" />
     </div>
   );
 };

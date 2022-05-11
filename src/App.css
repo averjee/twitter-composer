@@ -1,4 +1,9 @@
 
+.hr-add {
+  margin-left: -0.7rem;
+  margin-right: -0.7rem;
+}
+
 /* Extra small devices (phones, 600px and down) */
 @media (max-width: 600px) {
   .btn-danger {
